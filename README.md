@@ -27,18 +27,23 @@ Artificial Intelligence Engineer – IBM
 Microsoft Azure Data Fundamentals – Microsoft
 
 🏆 Projects
+
 CrediVerify
 Automated fact-checking for health-related YouTube videos using Google AI and OpenAI GPT.
 Enhanced claim validation accuracy by 30%.
+
 Pet Classification
 Developed a TensorFlow CNN model achieving 92% accuracy for pet breed identification.
+
 HR Policy Assistant
 Streamlined HR query handling with OpenAI GPT and LangChain, cutting manual tasks by 30 hours/month.
 
 💼 Experience
+
 Machine Learning Engineer – Signa Group (Remote, 2023 – Present)
 Reduced customer churn by 71% using deep learning algorithms.
 Enhanced ML pipeline efficiency by 20% using Flask and AWS.
+
 Machine Learning Engineer – Infosys (Chennai, 2020 – 2022)
 Improved fraud detection by 40% using supervised/unsupervised learning.
 Reduced data ingestion latency by 20% using Apache Airflow.
