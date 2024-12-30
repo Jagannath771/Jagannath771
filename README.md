@@ -17,13 +17,16 @@ Programming & Tools: Python (Pandas, TensorFlow, PyTorch, etc.), SQL, SAS, Flask
 Data Visualization: Power BI, Tableau, QlikView
 Development Frameworks: CI/CD, Git, Jupyter Notebook
 AI Ethics & Data Compliance
+
 📚 Education
 Master’s in Artificial Intelligence – University of Cincinnati (CGPA: 4.0/4.0)
 Bachelor’s in Computer Science and Engineering – Vellore Institute of Technology (CGPA: 9.0/10)
+
 🎯 Certifications
 Generative AI Specialization – Purdue University
 Artificial Intelligence Engineer – IBM
 Microsoft Azure Data Fundamentals – Microsoft
+
 🏆 Projects
 CrediVerify
 Automated fact-checking for health-related YouTube videos using Google AI and OpenAI GPT.
@@ -32,6 +35,7 @@ Pet Classification
 Developed a TensorFlow CNN model achieving 92% accuracy for pet breed identification.
 HR Policy Assistant
 Streamlined HR query handling with OpenAI GPT and LangChain, cutting manual tasks by 30 hours/month.
+
 💼 Experience
 Machine Learning Engineer – Signa Group (Remote, 2023 – Present)
 Reduced customer churn by 71% using deep learning algorithms.
