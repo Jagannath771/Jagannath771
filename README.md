@@ -5,7 +5,6 @@ AI Engineer | Machine Learning Enthusiast | Data Scientist
 📍 Sunrise, FL
 📧 jagannathsai771@gmail.com
 📱 +1 (754) 276-5271
-🌐 GitHub
 
 👋 About Me
 I am dedicated to advancing machine learning and AI technologies with a robust blend of technical expertise, innovative problem-solving, and ethical AI implementation. With a proven track record of architecting data pipelines and developing machine learning models, I specialize in driving data-driven decision-making and enhancing operational efficiencies.
