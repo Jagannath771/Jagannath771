@@ -1,6 +1,6 @@
 ## Jagannath Sai Kasarabada
 
-# AI Engineer | Machine Learning Enthusiast | Data Scientist
+# Machine Learning and AI Enthusiast
 
 📍 Sunrise, FL
 📧 jagannathsai771@gmail.com
@@ -49,14 +49,4 @@ Developed a TensorFlow CNN model achieving 92% accuracy for pet breed identifica
 HR Policy Assistant
 Streamlined HR query handling with OpenAI GPT and LangChain, cutting manual tasks by 30 hours/month.
 
-💼 Experience
 
-Machine Learning Engineer – Signa Group (Remote, 2023 – Present)
-
-Reduced customer churn by 71% using deep learning algorithms.
-Enhanced ML pipeline efficiency by 20% using Flask and AWS.
-
-Machine Learning Engineer – Infosys (Chennai, 2020 – 2022)
-
-Improved fraud detection by 40% using supervised/unsupervised learning.
-Reduced data ingestion latency by 20% using Apache Airflow.
