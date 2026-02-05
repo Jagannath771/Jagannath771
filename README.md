@@ -1,6 +1,6 @@
 ## Jagannath Sai Kasarabada
 
-# Machine Learning and AI Enthusiast
+# Data Engineer and AI Enthusiast
 
 📍 Sunrise, FL
 📧 jagannathsai771@gmail.com
