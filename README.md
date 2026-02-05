@@ -13,7 +13,7 @@ I am dedicated to advancing machine learning and AI technologies with a robust b
 
 Machine Learning: Deep Learning, Predictive Analytics, Feature Engineering, NLP, GANs, Transformers, MLOps
 
-Big Data & Cloud: AWS, Azure (Databricks), Hadoop, Spark, Kubernetes, Docker
+Big Data & Cloud: AWS, Azure (Databricks), GCP, Hadoop, Spark, Kubernetes, Docker
 
 Programming & Tools: Python (Pandas, TensorFlow, PyTorch, etc.), SQL, SAS, Flask, FastAPI
 
